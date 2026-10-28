@@ -1,10 +1,7 @@
 
 // Name: Pedro Henrique Morais
 // Course: CIS-162
-// Instructor: David Busch
 // Lab 4 - Temperature Output
-// Date: October 26, 2026
-
 // Precondition: The input file contains temperatures.
 // Postcondition: Valid temperatures are shown as star bars.
 
